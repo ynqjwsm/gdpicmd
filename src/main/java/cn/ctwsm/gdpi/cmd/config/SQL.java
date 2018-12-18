@@ -1,4 +1,4 @@
-package cn.ctwsm.gdpi.cmd;
+package cn.ctwsm.gdpi.cmd.config;
 
 public class SQL {
     //Commons SQL

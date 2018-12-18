@@ -1,4 +1,4 @@
-package cn.ctwsm.gdpi.cmd;
+package cn.ctwsm.gdpi.cmd.toolkit;
 
 /**
  * IMEI是国际移动通讯设备识别号(International Mobile Equipment Identity)的缩写，用于GSM系统。

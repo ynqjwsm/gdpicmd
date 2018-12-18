@@ -1,5 +1,6 @@
-package cn.ctwsm.gdpi.cmd;
+package cn.ctwsm.gdpi.cmd.toolkit;
 
+import cn.ctwsm.gdpi.cmd.config.SQL;
 import org.apache.commons.lang3.time.DateFormatUtils;
 
 import java.sql.Connection;

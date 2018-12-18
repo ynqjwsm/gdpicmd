@@ -1,4 +1,4 @@
-package cn.ctwsm.gdpi.cmd;
+package cn.ctwsm.gdpi.cmd.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
