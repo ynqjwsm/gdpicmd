@@ -125,7 +125,7 @@ public class Entrance {
 
         try {
             dataSource.init();
-            dataTableName = TableCreator.checkAndCreateDataTable(tableNamePrefix, dataSource.getConnection());
+            dataTableName = TableCreator.checkAndCreateImeiDataTable(tableNamePrefix, dataSource.getConnection());
             taskTableName = TableCreator.checkAndCreateTaskTable(tableNamePrefix, dataSource.getConnection());
             jobTableName = TableCreator.checkAndCreateJobTable(tableNamePrefix, dataSource.getConnection());
         } catch (SQLException e) {
